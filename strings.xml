@@ -1,0 +1,15 @@
+<resources>
+
+<string name="app_name"></string>
+
+<string name="km">Kilometers to miles</string>
+
+<string name="ml">Miles to kilometers</string>
+
+<string name="ok">Convert</string>
+
+<string name="cl">Clear</string>
+
+<color name="bgColor">#F5F5DC</color>
+
+</resources>
