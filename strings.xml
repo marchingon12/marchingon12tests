@@ -1,15 +1,17 @@
 <resources>
 
-<string name="app_name">WallsByCortezz0</string>
+  <string name="app_name">WallsByCortezz0</string>
 
-<string name="km">Kilometers to miles</string>
+  <string name="havoc">HAVOC</string>
 
-<string name="ml">Miles to kilometers</string>
+  <string name="aex">AEX</string>
 
-<string name="ok">Convert</string>
+  <string name="lineage_os">LOS</string>
 
-<string name="cl">Clear</string>
+  <string name="bootleggers">BL</string>
 
-<color name="bgColor">#F5F5DC</color>
+  <string name="evolution_x">EvoX</string>
+
+  <color name="bgColor">#F5F5DC</color>
 
 </resources>
